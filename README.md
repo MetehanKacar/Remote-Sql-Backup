@@ -15,11 +15,6 @@ tkinter (comes pre-installed with Python)
 Installation
 Clone or Download the Repository:
 
-git clone https://github.com/your-repo/mysql-backup-tool.git
-cd mysql-backup-tool
-Install Dependencies:
-Run the following command to install the required libraries:
-
 pip install mysql-connector-python
 Verify Python Version:
 Ensure you are running the correct version of Python:
