@@ -1,6 +1,6 @@
 
 README: MySQL Backup Tool
-This project is a Python-based MySQL backup tool with a graphical user interface (GUI) built using the tkinter library. The tool allows users to back up their MySQL database at specified intervals and supports English and Turkish languages.
+This project is a Python-based MySQL backup tool with a graphical user interface (GUI) built using the tkinter library. The tool allows users to back up their MySQL database at specified intervals.
 
 Requirements
 Python Version:
